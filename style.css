@@ -1,6 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    font-size: 30px;
+}
 .color{
     color: rgb(238, 159, 12);
 }
@@ -98,6 +101,7 @@ size: 10px;
 
 .all-catagory{
     display: flex;
+    margin-bottom: 10%;
    
 }
 
@@ -131,6 +135,7 @@ footer{
 .new-items{
     margin-left: 33%;
     margin-top: 5%;
+   
     
 }
 
@@ -140,7 +145,7 @@ footer{
     box-shadow: 10px 10px 40px gray;
     margin-left: 5%;
     margin-right: 5%;
-    margin-top: 10%;
+    margin-top: 3%;
     margin-bottom: 10%;
     display: flex;
     

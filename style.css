@@ -38,6 +38,7 @@ body{
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    margin-bottom: 10%;
 
 }
 .second{
@@ -51,6 +52,7 @@ body{
     background-repeat: no-repeat;
     background-size: 200%;
     background-position: center;
+    margin-top: 5%;
 }
 .girl{
     width: 70%;
@@ -58,8 +60,8 @@ body{
 
 .recipies{
 text-align: center;
-margin-top: 5%;
-margin-bottom: 10%;
+margin-top: 10%;
+margin-bottom: 15%;
 background-image: url(images/shapes/Frame\ 59.jpg);
 background-repeat: no-repeat;
 background-size: 100%;
@@ -123,6 +125,32 @@ size: 10px;
 footer h3 {text-align: center;}
 footer p {text-align: center;}
 footer{
-    background-color: rgb(221, 135, 23);
+    background-color: rgb(241, 223, 199);
     padding-bottom: 1px;
 }
+.new-items{
+    margin-left: 33%;
+    margin-top: 5%;
+    
+}
+
+.box{
+ 
+    padding: 70px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    display: flex;
+    
+}
+
+.bonus{
+    column-count: 3;
+
+    width: 90%;
+    
+}
+
+

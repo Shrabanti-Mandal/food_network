@@ -1,0 +1,109 @@
+.recipies-box{
+    background-color: rgb(255, 254, 254);
+    width: 800px;
+    border: 15px solid rgb(255, 254, 254);
+    padding: 10px;
+    margin: 25%;
+    text-align: center;
+    margin-top: auto;
+  
+
+}
+
+.category img{
+   
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 16px;
+}
+
+.all-catagory{
+    display: flex;
+}
+
+.category{
+    margin: auto;
+    align-items: center;
+
+}
+
+.item{
+    box-shadow: 10px  10px 20px gray;
+    width 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    border-radius: 10px;
+    
+}
+.item img{
+    border-radius: 8px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="all-catagory">
+
+        <div class="category item">
+
+            <img src="images/pic/Project Cover (2).png" alt="">
+            <h3>Fast food</h3>
+            <h2>Khana’s specializes in fast food, such as Naga Wings Barrel, Potato Wedges, and peri-peri style chicken
+                dishes.</h2>
+        </div>
+
+        <div class="category item">
+
+            <img src="images/food/Project Cover5.png" alt="">
+            <h3>Modern</h3>
+            <h2>Dishes on our menu can be suited to personal preference. some exceptions may apply</h2>
+        </div>
+
+        <div class="category item">
+
+            <img src="images/food/Project Cover1.jpg" alt="">
+            <h3>Catering</h3>
+            <h2>Parties, Meetings, or that special get together – Khana’s for all occasions! Please Contact Us</h2>
+        </div>
+
+
+
+    </section>
+
+
+
+
+</body>
+
+</html>

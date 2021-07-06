@@ -25,8 +25,8 @@ h1{
     margin-top: 10%;
     color: black;
     border-radius: 15px;
+    margin: auto;
    
-
 
 }
 .half img{
@@ -94,7 +94,7 @@ size: 10px;
 
 .category img{
    
-    width: 80%;
+    width: 90%;
     margin-top: 20px;
     margin-left: 16px;
 }
@@ -102,12 +102,23 @@ size: 10px;
 .all-catagory{
     display: flex;
     margin-bottom: 10%;
+    width: 100%;
+   
    
 }
+
+
+.align{
+    margin-left: 5px;
+    margin-right: 30%;
+ 
+}
+
 
 .category{
     margin: auto;
     align-items: center;
+   
     
 
 }
@@ -119,11 +130,15 @@ size: 10px;
     margin-right: 5%;
     padding-left: 2%;
     border-radius: 10px;
+
+   
     
 }
-.item img{
-    border-radius: 8px;
 
+.item img{
+    width:50%;
+    height:35%;
+    border-radius: 5px;
 }
 
 footer h3 {text-align: center;}
